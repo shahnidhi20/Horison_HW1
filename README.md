@@ -1,7 +1,8 @@
 # Horiseon Marketing Agency
 
 Showcasing sematic tags and refactor code
-##Description
+
+## Description
 
 It shows use of various semantic tags
 All the images have alt attribute. 
