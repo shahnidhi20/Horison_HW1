@@ -4,10 +4,10 @@ Showcasing sematic tags and refactor code
 
 ## Description
 
-It shows use of various semantic tags
-All the images have alt attribute. 
-Header tags falls in sequential order
-Added proper descriptive title
+    *It shows use of various semantic tags
+    *All the images have alt attribute. 
+    *Header tags falls in sequential order
+    *Added proper descriptive title
 
 ## Getting Started
 ### Dependencies
