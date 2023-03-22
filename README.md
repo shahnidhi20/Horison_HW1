@@ -15,6 +15,7 @@
 
 ## Getting Started
 ### Dependencies
+   NA
 
 ### Installing
    * Clone the repo
@@ -22,11 +23,11 @@
     
 
 ### Executing program
-NA
+   NA
  
 
 ## Help
-NA
+   NA
 
 ## Authors
 
