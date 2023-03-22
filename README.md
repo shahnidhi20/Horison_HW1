@@ -1,6 +1,10 @@
 # Horiseon Marketing Agency
 
-Showcasing sematic tags and refactor code
+   <p align="center">
+     <a href="https://github.com/shahnidhi20/Horison_HW1/">
+       <img src="./Horiseon_Front.png" alt="Logo" width="430" height="500">
+     </a>
+   </p>
 
 ## Description
 
@@ -13,7 +17,8 @@ Showcasing sematic tags and refactor code
 ### Dependencies
 
 ### Installing
-NA
+   * Clone the repo
+ 
     
 
 ### Executing program
